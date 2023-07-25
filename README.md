@@ -7,6 +7,6 @@ Completing this project helped me learn how to use APIs for building finished pr
 
 ## Features
 <ul>
-  Built on GPT-3.
-  Easy to use. 
+  <li>Built on GPT-3.</li>
+  <li>Easy to use.</li> 
 </ul>
